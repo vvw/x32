@@ -2,12 +2,14 @@
 http://funkybee.narod.ru/
 https://github.com/tleyden/open-ocr/wiki/Stroke-Width-Transform
 https://github.com/tleyden/open-ocr/wiki/Stroke-Width-Transform-In-Action
-https://registry.hub.docker.com/u/tleyden5iwx/stroke-width-transform/dockerfile/ docker ºÃÏñÊÇºÜÏÈÔŞµÄ¶«Î÷
+https://registry.hub.docker.com/u/tleyden5iwx/stroke-width-transform/dockerfile/ docker å¥½åƒæ˜¯å¾ˆå…ˆèµçš„ä¸œè¥¿
 
-¾í»ıÉñ¾­ÍøÂç ´óÔŞ
+å·ç§¯ç¥ç»ç½‘ç»œ å¤§èµ
 
 https://github.com/BVLC/caffe
-https://github.com/niuzhiheng/caffe windows °æ
+https://github.com/niuzhiheng/caffe windows ç‰ˆ
 https://github.com/rbgirshick/rcnn
-http://projectnaptha.com/ Í¼ÏñÑ¡×Ö
+http://projectnaptha.com/ å›¾åƒé€‰å­—
 
+openimaj
+http://www.openimaj.org/apidocs/org/openimaj/image/processing/edges/StrokeWidthTransform.html æ–‡æ¡£ä¸°å¯Œ
